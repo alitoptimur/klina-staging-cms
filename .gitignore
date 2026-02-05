@@ -6,3 +6,8 @@ dist
 .DS_Store
 .env*
 *.log
+
+# strapi local
+.env
+.strapi
+.strapi-updater.json
