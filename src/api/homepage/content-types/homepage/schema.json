@@ -17,6 +17,12 @@
     },
     "heroSubtitle": {
       "type": "blocks"
+    },
+    "primaryCtaText": {
+      "type": "string"
+    },
+    "primaryCtaHref": {
+      "type": "string"
     }
   }
 }
